@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    /* position: fixed; */
+    width: 100%;
+}
+
+nav{
+    width: auto;
+    height: 50px;
+    padding-block-start: 20px;
+    text-align: center;
+    background-color: rgb(224, 224, 196);
+    display: block;
+    font-size: 23px;
+    
+}
+
+a{
+    /* align-items: center; */
+    height: 80px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin-inline-end: 20px;
+}
+
+a:focus{
+    background-color: black;
+    color: white;
+    border-radius: 20%;
+}
+
+.about{
+    text-align: center;
+    
+}
+
+p{
+    font-size: 23px;
+}
