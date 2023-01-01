@@ -3,7 +3,7 @@
     padding: 0;
 }
 header{
-    /* position: fixed; */
+    position: fixed;
     width: 100%;
 }
 
@@ -12,9 +12,30 @@ nav{
     height: 50px;
     padding-block-start: 20px;
     text-align: center;
-    background-color: rgb(224, 224, 196);
+    background-color: rgb(114, 192, 248);
+    background-repeat: no-repeat;
+    background-position: 0%;
     display: block;
     font-size: 23px;
+    
+}
+
+#ism{
+    text-align: center;
+    color: white;
+    height: 500px;
+    font-size: 42px;
+    
+}
+
+#home{
+    display: flex;
+    flex-direction: column;
+    height: 840px;
+    justify-content: center;
+    align-items: center;
+    color: rgb(187, 136, 136);
+    background-image: url("https://media.istockphoto.com/id/1390647151/photo/abstract-technology-background-big-data-digital-code-futuristic-dots-background-3d-rendering.jpg?b=1&s=170667a&w=0&k=20&c=kfGdOkhaPrqyFYEdIz7H9oz97YLqlfRGEnc3752QIMQ=");
     
 }
 
@@ -35,9 +56,16 @@ a:focus{
 
 .about{
     text-align: center;
-    
+    font-family: sans-serif;
 }
 
-p{
+.about{
     font-size: 23px;
+}
+
+#ism{
+    margin-block-start: 20px;
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
 }
