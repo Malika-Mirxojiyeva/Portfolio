@@ -32,7 +32,7 @@ nav{
     height: 840px;
     justify-content: center;
     align-items: center;
-    background-image: url("https://t3.ftcdn.net/jpg/03/91/46/10/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg");
+    background-image: url("./image/background.jpg");
 }
 
 a{
@@ -69,5 +69,33 @@ a:focus{
     width: 190px;
     height: 190px;
     border-radius: 50%;
-    
+}
+
+#abuotMe{
+    height: 820px;
+    width: 100%;
+    background-image: url("./image/background.jpg");
+}
+
+.about{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(188, 170, 170);
+}
+
+.name{
+    text-align: center;
+    color: rgb(188, 170, 170);
+    margin-block-start: 50px;
+    margin-block-end: 20px;
+}
+
+#data{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(188, 170, 170);
+    margin-block-start: 5px;
 }
