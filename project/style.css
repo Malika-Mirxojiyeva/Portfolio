@@ -34,7 +34,7 @@ nav{
 
 #home{
     display: flex;
-    height: 840px;
+    height: 680px;
     justify-content: center;
     align-items: center;
     background-image: url("");
@@ -77,7 +77,7 @@ a:focus{
 }
 
 #abuotMe{
-    height: 820px;
+    height: 680px;
     width: 100%;
     /* background-image: url("./image/background.jpg"); */
 }
@@ -108,7 +108,7 @@ a:focus{
 #data1{
     margin-block-start: 50px;
     margin-inline-start: 50px;
-    text-align: left;
+    text-align:center;
     font-family: sans-serif;
     font-weight: bold;
 }
@@ -117,7 +117,6 @@ a:focus{
 .skills_l{
     margin-block-start: 50px;
     margin-inline-start: 50px;
-    text-align: left;
     font-family: sans-serif;
     font-weight: bold;
     color: rgb(188, 170, 170);
@@ -125,32 +124,28 @@ a:focus{
 
 .skills{
     margin-inline-start: 50px;
-    text-align: left;
     font-family: sans-serif;
     font-weight: bold;
     color:rgb(204, 191, 176);
 }
 .skills_d{
     margin-block-start: 50px;
-    margin-inline-start: 50px;
-    text-align: right;
+    margin-inline-start: 100px;
     font-family: sans-serif;
     font-weight: bold;
     color: rgb(188, 170, 170);
 }
 
 .skills2{
-    margin-inline-start: 50px;
-    text-align: right;
+    margin-inline-start: 150px;
     font-family: sans-serif;
     font-weight: bold;
     color:rgb(204, 191, 176);
 }
 
-#data2{
-    margin-block-start: 50px;
-    margin-inline-start: 50px;
-    text-align: left;
+.skills3{
+    margin-inline-start: 75px;
     font-family: sans-serif;
     font-weight: bold;
+    color:rgb(204, 191, 176);
 }
