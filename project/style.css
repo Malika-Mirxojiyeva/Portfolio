@@ -34,7 +34,7 @@ nav{
 
 #home{
     display: flex;
-    height: 720px;
+    height: 820px;
     justify-content: center;
     align-items: center;
     background-image: url("");
@@ -78,7 +78,7 @@ a:focus{
 }
 
 #abuotMe{
-    height: 720px;
+    height: 820px;
     width: 100%;
     /* background-image: url("./image/background.jpg"); */
 }
