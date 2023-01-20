@@ -93,7 +93,7 @@ a:focus{
 
 .name{
     text-align: center;
-    color: rgb(188, 170, 170);
+    color: rgb(213, 209, 209);
     margin-block-start: 50px;
     margin-block-end: 20px;
 }
@@ -107,45 +107,35 @@ a:focus{
 }
 
 #data1{
-    margin-block-start: 50px;
-    margin-inline-start: 50px;
     text-align:center;
     font-family: sans-serif;
     font-weight: bold;
 }
 
 #data2{
-        margin-block-start: 50px;
-        margin-inline-end: 30px;
         text-align:center;
         font-family: sans-serif;
         font-weight: bold;
 }
 
 .skills_l{
-    margin-block-start: 50px;
-    margin-inline-start: 50px;
     font-family: sans-serif;
     font-weight: bold;
-    color: rgb(188, 170, 170);
+    color: rgb(213, 209, 209);
 }
 
 .skills{
-    margin-inline-start: 50px;
     font-family: sans-serif;
     font-weight: bold;
     color:rgb(204, 191, 176);
 }
 .skills_d{
-    margin-block-start: 50px;
-    margin-inline-start: 100px;
     font-family: sans-serif;
     font-weight: bold;
-    color: rgb(188, 170, 170);
+    color: rgb(213, 209, 209);
 }
 
 .skills2{
-    margin-inline-start: 150px;
     font-family: sans-serif;
     font-weight: bold;
     color:rgb(204, 191, 176);
