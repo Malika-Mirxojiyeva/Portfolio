@@ -73,7 +73,8 @@ a:focus{
 .user{
     width: 190px;
     height: 190px;
-    border-radius: 50%;
+    border-radius: 30%;
+    margin-left: 100px;
 }
 
 #abuotMe{
@@ -113,6 +114,13 @@ a:focus{
     font-weight: bold;
 }
 
+#data2{
+        margin-block-start: 50px;
+        margin-inline-start: 50px;
+        text-align:center;
+        font-family: sans-serif;
+        font-weight: bold;
+}
 
 .skills_l{
     margin-block-start: 50px;
@@ -143,9 +151,3 @@ a:focus{
     color:rgb(204, 191, 176);
 }
 
-.skills3{
-    margin-inline-start: 75px;
-    font-family: sans-serif;
-    font-weight: bold;
-    color:rgb(204, 191, 176);
-}
