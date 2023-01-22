@@ -141,3 +141,27 @@ a:focus{
     color:rgb(204, 191, 176);
 }
 
+#work{
+    height: 820px;
+    width: 100%;
+    color: beige;
+    display: flex;
+}
+
+.frontendIMage{
+    text-align: end;
+    margin-inline-start: 10px;
+    border-radius: 10%;
+    height: 220px;
+}
+
+.UI-UXimage{
+    text-align: start;
+    margin-inline-start: 10px;
+    border-radius: 10%;
+    width: 220px; 
+    height: 220px;
+}
+#workdiv{
+    display: flex;
+}
