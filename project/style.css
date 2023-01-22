@@ -145,7 +145,7 @@ a:focus{
     height: 820px;
     width: 100%;
     color: beige;
-    display: flex;
+    text-align: center;
 }
 
 .frontendIMage{
@@ -153,15 +153,20 @@ a:focus{
     margin-inline-start: 10px;
     border-radius: 10%;
     height: 220px;
+    width: auto;
 }
 
 .UI-UXimage{
-    text-align: start;
     margin-inline-start: 10px;
     border-radius: 10%;
-    width: 220px; 
+    width: auto; 
     height: 220px;
 }
-#workdiv{
-    display: flex;
+
+#workdiv1{
+    margin-block-start: 30px;
+}
+
+#workdiv2{
+    margin-block-start: 30px;
 }
