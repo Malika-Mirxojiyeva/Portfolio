@@ -72,8 +72,7 @@ a:focus{
 
 .user{
     width: 190px;
-    height: 190px;
-    border-radius: 30%;
+    height: 320px;
     margin-left: 100px;
 }
 
@@ -169,4 +168,55 @@ a:focus{
 
 #workdiv2{
     margin-block-start: 30px;
+}
+
+#interest{
+        height: 820px;
+        width: 100%;
+        color: beige;
+        text-align: center;
+}
+
+#images{
+    display: flex;
+    text-align: center;
+    margin-inline-start: 20px;
+}
+
+.cook{
+    border-radius: 15px;
+    margin-block-start: 50px;
+    margin-inline-start: 50px;
+}
+
+/* .film{
+  
+    width: 60px;
+    height: 60px;
+}
+
+.sing{
+    width: 60px;
+    height: 60px;
+}
+
+.listen{
+    width: 60px;
+    height: 60px;
+}
+
+.cook{
+    width: 60px;
+    height: 60px;
+}
+
+.dance{
+    width: 60px;
+    height: 60px;
+} */
+
+@media only screen and (max-width: 520px) {
+    header{
+        font-size: 18px;
+    }
 }
